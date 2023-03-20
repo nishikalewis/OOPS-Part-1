@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw04.SecurityContextTest
+Test: instance_verification() took 28 milli sec(s)
+Test: users_verification() took 0 milli sec(s)
+Test: login_verification() took 0 milli sec(s)
+Test: transitions_verification() took 0 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 63 milli sec(s)
